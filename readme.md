@@ -172,13 +172,16 @@ This approach reflects real-world industrial vision systems.
 1. Install dependencies
    pip install -r requirements.txt
 
-2. Train detector
+2. Folder Structure
+   python src/setup.py   
+
+3. Train detector
    python train_detector.py
 
-3. Train classifier
+4. Train classifier
    python train_classifier.py
 
-4. Run inference
+5. Run inference
    python inference_pipeline.py
 
 Output video will be saved in the outputs/ directory.
