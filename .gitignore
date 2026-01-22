@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env/
+
+# Data & datasets
+data/
+
+# Outputs & videos
+outputs/
+test_videos/
+*.mp4
+*.avi
+
+# Models
+models/
+*.pth
+
+# WandB
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
