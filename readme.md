@@ -166,7 +166,7 @@ This approach reflects real-world industrial vision systems.
 - PASCAL VOC Dataset
 
 ---
-
+```
 ## ▶️ How to Run
 
 1. Install dependencies
@@ -191,7 +191,7 @@ This approach reflects real-world industrial vision systems.
    python inference_pipeline.py
 
 Output video will be saved in the outputs/ directory.
-
+```
 ---
 
 ## 🚀 Applications
