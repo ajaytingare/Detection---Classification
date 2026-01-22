@@ -178,10 +178,16 @@ This approach reflects real-world industrial vision systems.
 3. Train detector
    python train_detector.py
 
-4. Train classifier
+4. Detector Results
+   python inference_only_detector.py
+   
+5. Train classifier
    python train_classifier.py
 
-5. Run inference
+6. Classifier Results
+   python inference_only_classifier.py
+
+7. Run inference
    python inference_pipeline.py
 
 Output video will be saved in the outputs/ directory.
